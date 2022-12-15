@@ -175,7 +175,6 @@ html {
       margin-left: 50px;
     }
     #banner{
-      background: url(../img/bg-mob.jpg) no-repeat;
       background-size: cover;
       height: 100vh;
     }
